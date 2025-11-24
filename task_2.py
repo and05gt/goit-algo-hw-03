@@ -43,3 +43,4 @@ if __name__ == "__main__":
         print("Invalid input. Please enter an integer between 0 and 6.")
     except Exception as e:
         print(f"An error occurred: {e}")
+        
